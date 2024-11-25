@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kh%C3%B4i;I'm+a+passionate+AI+Engineer;from+Vi%E1%BB%87t+Nam;...)](https://git.io/typing-svg)
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khoi03&label=Profile%20views&color=0e75b6&style=flat" alt="khoi03" /> </p>
 
 - 📫 How to reach me **koitran.work@gmail.com**
