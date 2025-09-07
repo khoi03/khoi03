@@ -11,5 +11,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/khôi-trần" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khôi-trần" height="30" width="40" /></a>
 <a href="https://discord.gg/Sino#9937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sino#9937" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100006784665433" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trần đình khôi" height="30" width="40" /></a>
 </p>
+
